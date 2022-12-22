@@ -15,3 +15,7 @@ This is some purpose here
 this is for deployment
 
 ## How to contribute
+
+### Copyright
+
+2022 Git.training
