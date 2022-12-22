@@ -1,6 +1,6 @@
 # Web Start Project
 
-This is a simple website project. Just adding some testing rebasing
+This is a simple website project. Just adding some testing rebasing, then more changes from my feature branch also
 
 ## Introduction
 
