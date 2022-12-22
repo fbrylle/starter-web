@@ -16,6 +16,8 @@ this is for deployment
 
 ## How to contribute
 
+please use fork when eating
+
 ### Copyright
 
 2022 Git.training
