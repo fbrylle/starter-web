@@ -5,6 +5,7 @@ This is a simple website project. Just adding some testing rebasing, then more c
 ## Introduction
 
 This is to add something different
+emergency fix for stashing
 
 ## Purpose
 
